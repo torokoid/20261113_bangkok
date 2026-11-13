@@ -246,11 +246,11 @@ p.note { display: none; }
 <h2><span class="yellow">ホテル中庭のプール</span></h2>
 <a href="20261113_00034.jpeg" target="_blank"><img src="20261113_00034.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">航空会社、室内乗務員達の常宿になってるようです</span></h2>
+<h2><span class="yellow">航空会社、客室乗務員達の常宿になってるようです</span></h2>
 <a href="20261113_00035.jpeg" target="_blank"><img src="20261113_00035.jpeg" alt="サンプル画像" class="responsive-media"></a>
 <a href="20261113_00036.jpeg" target="_blank"><img src="20261113_00036.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
-<h2><span class="yellow">市内、スワンナプーム国際空港の近くに聳え立ってます</span></h2>
+<h2><span class="yellow">市内、スワンナプーム国際空港の近めの場所に聳え立ってます</span></h2>
 <a href="20261113_00037.jpeg" target="_blank"><img src="20261113_00037.jpeg" alt="サンプル画像" class="responsive-media"></a>
 
 <!--
